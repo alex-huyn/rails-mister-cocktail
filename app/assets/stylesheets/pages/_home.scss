@@ -1,1 +1,21 @@
-// Specific CSS for your home-page
+.add_cocktail {
+  position: absolute;
+  bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+.back_home {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  font-size: 30px;
+}
+
+.new_ingredient {
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+  border-radius: 5px;
+  background-color: #d5e4ef
+}
